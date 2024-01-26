@@ -1,0 +1,14 @@
+.login-icon-container {
+    width: 45px;
+    height: 45px;
+    position: relative;
+    display: flex;
+    padding-top: 6px;
+    justify-content: center;
+    cursor: pointer;
+}
+.login-icon {
+  width: 25px;
+  height: 25px;
+}
+  

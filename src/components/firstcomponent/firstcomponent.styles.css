@@ -1,0 +1,28 @@
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.test1{
+    text-align: left;
+    background-color: yellow;
+}
+.para1{
+    font-size: larger;
+    text-align: left;
+    /* background-color: green; */
+    
+}
+.example3{
+    font-size: larger;
+    text-align: right;
+    /* background-color: green; */
+    
+}
+.img1{
+    text-align: center;
+    /* background-color: red; */
+}
+.img2{
+    text-align: center;
+    /* background-color: red; */
+}

@@ -1,0 +1,13 @@
+input{
+    height: 65px;
+    width: 50%;
+    letter-spacing: 5px;
+}
+a{
+    color:black;
+    
+}
+button{
+    width: 20%;
+    height: 60px;
+}

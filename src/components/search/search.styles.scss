@@ -1,0 +1,117 @@
+.input-wrapper {
+   background-color: white;
+   height: 171.91px;
+   border-radius: 10px;
+   width: 1344px;
+   padding: 0 80px;
+   margin: 0px 48px 80px;
+   box-shadow: 0 0 8px #ddd;
+   display: flex;
+   align-items: center;
+}
+
+input {
+   
+   appearance: none;
+   background-color: rgb(var(--color-background));
+   color: rgb(var(--color-foreground));
+   font-size: 1.6rem;
+   width: 100%;
+   box-sizing: border-box;
+   transition: box-shadow var(--duration-short) ease;
+   border-radius: var(--inputs-radius);
+   height: 4.5rem;
+   min-height: calc(var(--inputs-border-width) * 2);
+   min-width: calc(7rem + (var(--inputs-border-width) * 2));
+   position: relative;
+   border: 0;
+   // height: 762.8;
+   // width: 72;
+   //  background-color: #ffffff
+   // margin: 1px;
+   // padding: 24px 156.8px 24px 24px;
+   // border: none;
+   // font-size: 1.25rem;
+
+   &:focus {
+       outline: none;
+   }
+}
+
+#search-icon {
+   color: 02020BF;
+}
+
+
+// .input-group rounded{
+//     display: flex;
+//     align-items: center;
+//     padding: 10px;
+//     border: 1px solid #ccc;
+//     border-radius: 4px;
+//     width: 100%;
+//     max-width: 500px;
+//     flex-direction: column;
+      
+// }
+
+// .form-control rounded{
+//     display: flex;
+//     align-items: center;
+//     width: 100%;
+//     padding: 10px;
+//     border: none;
+//     outline: none;
+// }
+// .input-group-text border-0{
+   
+//     width: 100%;
+//     padding: 10px;
+//     border: none;
+//     outline: none;
+// }
+// .btn{
+//     margin-left: 10px;
+//     padding: 10px 20px;
+//     background-color: #007bff;
+//     color: #fff;
+//     border: none;
+//     border-radius: 4px;
+//     cursor: pointer;
+//     transition: background-color 0.2s;
+
+//     &:hover {
+//         background-color:grey;
+//     }
+// }
+// .search {
+//     display: flex;
+//     align-items: center;
+//     padding: 10px;
+//     border: 1px solid #ccc;
+//     border-radius: 4px;
+//     width: 100%;
+//     max-width: 500px;
+  
+//     input[type="search"] {
+//        width: 100%;
+//        padding: 10px;
+//        border: none;
+//        outline: none;
+//     }
+  
+//     button {
+//        margin-left: 10px;
+//        padding: 10px 20px;
+//        background-color: #007bff;
+//        color: #fff;
+//        border: none;
+//        border-radius: 4px;
+//        cursor: pointer;
+//        transition: background-color 0.2s;
+  
+//        &:hover {
+//          background-color:grey;
+//        }
+//     }
+//    }
