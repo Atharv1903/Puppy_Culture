@@ -553,20 +553,24 @@ p {
 #e-1686230992414 a img{
     margin: 0;
     padding: 0;
-    width: 270px;
-    height: 270px;
+    /* width: 270px;
+    height: 270px; */
     
 }
 
 #e-1686149313747 a img{
-    width: 270px;
-    height: 270px;
-    align-items: center;
+    margin: 0;
+    padding: 0;
+    /* width: 270px;
+    height: 270px; */
+    
 }
 
 #e-1686149325008 a img{
-    width: 270px;
-    height: 270px;
+    margin: 0;
+    padding: 0;
+    /* width: 270px;
+    height: 270px; */
 }
 
 .gf_gs-spacing-2045884-m-bottom {

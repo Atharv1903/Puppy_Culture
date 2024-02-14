@@ -84,26 +84,26 @@ const Footer = () => {
                 </li>
                 <li>
                   <small class="copyright__content"
-                  ><a href="/policies/refund-policy"
+                  ><a href="https://shoppuppyculture.com/policies/refund-policy"
                   ><span className="s-5">Return/Refund policy</span></a
                     ></small
                   >
                 </li>
                 <li>
                   <small class="copyright__content"
-                  ><a href="/policies/privacy-policy"><span className="s-5">Privacy policy</span></a></small
+                  ><a href="https://shoppuppyculture.com/policies/privacy-policy"><span className="s-5">Privacy policy</span></a></small
                   >
                 </li>
                 <li>
                   <small class="copyright__content"
-                  ><a href="/policies/terms-of-service"
+                  ><a href="https://shoppuppyculture.com/policies/terms-of-service"
                   ><span className="s-5">Terms of service</span></a
                     ></small
                   >
                 </li>
                 <li>
                   <small class="copyright__content"
-                  ><a href="/policies/shipping-policy"><span className="s-5">Shipping policy</span></a></small
+                  ><a href="https://shoppuppyculture.com/policies/shipping-policy"><span className="s-5">Shipping policy</span></a></small
                   >
                 </li>
             </ul>
